@@ -37,7 +37,7 @@
 }
 
 .section{
-  background-image: url(camera.jpg);
+  background-image: url(/camera.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
