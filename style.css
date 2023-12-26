@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  font-family: 'Secular One';
+}
+
+
+.navbar{
+  padding: 15px;
+  color: white;
+  background-color:#272829;
+  display: flex;
+}
+
+.header{
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.nav-options{
+  margin-left: 50%;
+  margin-top: 10px;
+  
+  }
+
+.nav-options a{
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+}
+
+
+.nav-options a:hover{
+  color: #272829;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.section{
+  background-image: url(/camera.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.main-text{
+  padding-top: 10%;
+  color: white;
+  font-size: 60px;
+}
+
+button{
+  height: 30px;
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  border-radius: 7px;
+  margin-right: 10px;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
